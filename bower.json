@@ -1,0 +1,22 @@
+{
+  "name": "timestamp-api",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Gershon Papi"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/papigers/timestamp-api",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.6"
+  }
+}
